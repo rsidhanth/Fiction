@@ -1,0 +1,1 @@
+This is Chapter 2.  Now I will add the second commit and store the passwords file in the gitignore file.
